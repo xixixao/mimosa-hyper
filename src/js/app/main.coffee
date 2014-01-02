@@ -7,8 +7,9 @@ _TestComponent = React.createClass
     value: 'no'
 
   render: ->
-    React.DOM.p {}, ["Everything working? ",
-      _strong @props.value]
+    React.DOM.p {},
+      "Everything working? "
+      _strong @props.value
 
 module.exports = ->
 
