@@ -1,12 +1,12 @@
-# minimal
+# hyper
 
-Super-minimal [Mimosa](https://github.com/dbashford/mimosa) template for your super-quick hacks.
+[Mimosa](https://github.com/dbadhford/mimosa) skeleton for using React.js in CoffeeScript via [Hyper](https://github.com/xixixao/hyper)
 
 ## Use
 
 ```bash
 $ npm install -g mimosa
-$ mimosa skel:new minimal ProjectName
+$ mimosa skel:new hyper ProjectName
 $ cd ProjectName
 $ make
 ```
@@ -15,5 +15,5 @@ Go to [http://localhost:3000](http://localhost:3000). Changes are automatically 
 
 ## Setup
 
-[CoffeeScript](http://http://coffeescript.org/), [Stylus](http://learnboost.github.io/stylus/), [Jade](http://jade-lang.com/)
+[CoffeeScript](http://http://coffeescript.org/), [Stylus](http://learnboost.github.io/stylus/), [Jade](http://jade-lang.com/), React, Hyper
 

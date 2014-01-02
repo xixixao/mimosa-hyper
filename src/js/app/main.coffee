@@ -1,5 +1,4 @@
 React = require 'React'
-
 {_p, _strong} = require 'hyper'
 
 _TestComponent = React.createClass
@@ -7,7 +6,7 @@ _TestComponent = React.createClass
     value: 'no'
 
   render: ->
-    React.DOM.p {},
+    _p {},
       "Everything working? "
       _strong @props.value
 
