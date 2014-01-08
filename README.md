@@ -1,6 +1,6 @@
 # hyper
 
-[Mimosa](https://github.com/dbadhford/mimosa) skeleton for using React.js in CoffeeScript via [Hyper](https://github.com/xixixao/hyper)
+[Mimosa](https://github.com/dbashford/mimosa) skeleton for using React.js in CoffeeScript via [Hyper](https://github.com/xixixao/hyper)
 
 ## Use
 
